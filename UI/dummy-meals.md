@@ -1,0 +1,1459 @@
+# Dummy Data Expandida: Meals do Jambu (Para Testes e Mockups)
+
+Arquivo contendo dados fictícios ricos e estruturados de **15 refeições (meals)** para desenvolvimento, testes de interface e refatoração do frontend do Jambu.
+
+Inclui os novos usuários com fotos reais de pratos enviadas:
+- **Davizin (`@davizin_doom`)**: Avatar Dr. Doom (Marvel) — 1 meal com 2 pratos (Filé Mignon com Aligot/Arroz + Hot Roll Especial Empanado).
+- **Pedro (`@pedro_cp2077`)**: Avatar Cyberpunk 2077 — 1 meal com 1 prato (Burger Artesanal Pomodoro & Manjericão na ardósia).
+- **Lucas (`@lucas_hedgehog`)**: Avatar Sonic (Sega) — 2 meals com 1 prato cada:
+  1. Pizza Napolitana Artesanal de Linguiça e Gorgonzola.
+  2. Croissant Francês Dourado Amanteigado com Cappuccino Especial.
+
+---
+
+## 👑 Meal 12: Rigor e Banquete Real (Davizin)
+
+### Autor (Perfil)
+- **ID**: `usr-09`
+- **Nome**: Davizin
+- **Username**: `@davizin_doom`
+- **Foto de Perfil**: `https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=400&q=80`
+- **Bio**: "A culinária de Latvéria não tolera pratos medíocres. Exigência imperial em cada garfada."
+
+### Restaurante
+- **ID**: `rest-varanda`
+- **Nome**: Varanda Gastrobar & Parrilla
+- **Categoria**: Carnes Nobres & Cozinha Contemporânea
+- **Localização**: Bela Vista, São Paulo - SP
+
+### Metadados da Postagem
+- **ID**: `meal-012`
+- **Data ISO**: `2026-10-25T13:10:00Z`
+- **Horário Relativo**: Há 20 minutos
+- **Curtidas**: 512
+- **Comentários**: 3
+- **Salvos**: 114
+- **Compartilhamentos**: 36
+
+### Pratos (2 Dishes - Fotos Reais Enviadas)
+1. **Filé Mignon ao Molho Roti com Aligot Cremoso e Arroz Colorido**
+   - **ID**: `dish-25`
+   - **Foto**: `assets/dishes/davizin-file-aligot.jpg`
+   - **Preço**: R$ 69,00
+   - **Nota**: 4.5 / 5.0 (⭐⭐⭐⭐½)
+   - **Comeria Novamente**: Sim (`true`)
+2. **Hot Roll Especial Crocante Empanado na Panko com Tarê e Gengibre**
+   - **ID**: `dish-26`
+   - **Foto**: `assets/dishes/davizin-hot-roll-crocante.jpg`
+   - **Preço**: R$ 38,00
+   - **Nota**: 4.0 / 5.0 (⭐⭐⭐⭐)
+   - **Comeria Novamente**: Sim (`true`)
+
+### Review Detalhada
+> "Latvéria exige rigor absoluto e consistência técnica na cozinha. O filé mignon estava com selagem de respeito na grelha, interior rosado e suculento com o molho roti enriquecendo cada corte. O aligot apresentou uma elasticidade admirável, com queijo nobre bem fundido sem se separar em óleo. O arroz colorido biro-biro com legumes soltinho fechou bem a guarnição. Para a entrada, o hot roll crocante surpreendeu pelo empanamento panko sequíssimo e pelo salmão macio no centro, ainda que a redução de tarê pudesse ter uma ponta a menos de açúcar. Uma refeição digna de um monarca. O Doutor Destino aprova."
+
+### Comentários
+- **@pedro_cp2077** (Pedro)
+  - *Avatar*: `https://images.unsplash.com/photo-1578632767115-351597cf2477?auto=format&fit=crop&w=400&q=80`
+  - *Comentário*: "Esse aligot tá com uma cara absurda de boa, Davizin! O molho roti brilhou."
+  - *Tempo*: Há 12 min
+- **@lucas_hedgehog** (Lucas)
+  - *Avatar*: `https://images.unsplash.com/photo-1563089145-599997674d42?auto=format&fit=crop&w=400&q=80`
+  - *Comentário*: "Duas opções de primeira na mesma mesa! Esse hot roll com tarê tá covardia."
+  - *Tempo*: Há 8 min
+- **@spikespiegel** (Spike Spiegel)
+  - *Avatar*: `https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=400&q=80`
+  - *Comentário*: "Isso sim é carne de respeito. Queria eu almoçar assim todo dia."
+  - *Tempo*: Há 5 min
+
+---
+
+## 🌆 Meal 13: Night City Burger Craft (Pedro)
+
+### Autor (Perfil)
+- **ID**: `usr-10`
+- **Nome**: Pedro
+- **Username**: `@pedro_cp2077`
+- **Foto de Perfil**: `https://images.unsplash.com/photo-1578632767115-351597cf2477?auto=format&fit=crop&w=400&q=80`
+- **Bio**: "Explorando a Night City gastronômica um burger de cada vez. Chooh2 no tanque e molho no prato."
+
+### Restaurante
+- **ID**: `rest-smash`
+- **Nome**: The Smashing Burger Co.
+- **Categoria**: Hamburgueria Artesanal
+- **Localização**: Pinheiros, São Paulo - SP
+
+### Metadados da Postagem
+- **ID**: `meal-013`
+- **Data ISO**: `2026-10-25T12:45:00Z`
+- **Horário Relativo**: Há 45 minutos
+- **Curtidas**: 340
+- **Comentários**: 3
+- **Salvos**: 82
+- **Compartilhamentos**: 21
+
+### Pratos (1 Dish - Foto Real Enviada)
+1. **Burger Artesanal Pomodoro com Mozzarella de Búfala e Manjericão no Pão Australiano**
+   - **ID**: `dish-27`
+   - **Foto**: `assets/dishes/pedro-smash-burger.jpg`
+   - **Preço**: R$ 44,00
+   - **Nota**: 5.0 / 5.0 (⭐⭐⭐⭐⭐)
+   - **Comeria Novamente**: Sim (`true`)
+
+### Review Detalhada
+> "Apresentação futurista servida direto na pedra de ardósia preta. Esse burger é praticamente uma fusão genial de pizza margherita clássica com hambúrguer artesanal parrudo. O blend de carne de 180g estava com ponto rosado e suculência inacreditável (daqueles que pinga a cada mordida sem encharcar o pão). O pão escuro manteve a estrutura firme, o queijo derretido abraçou o molho rústico de tomate e a folha fresca de manjericão no topo trouxe o frescor exato para limpar a gordura da carne. Experiência nota 10."
+
+### Comentários
+- **@davizin_doom** (Davizin)
+  - *Avatar*: `https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=400&q=80`
+  - *Comentário*: "Aprovado por Latvéria. Ponto da carne impecável e construção digna."
+  - *Tempo*: Há 30 min
+- **@lucas_hedgehog** (Lucas)
+  - *Avatar*: `https://images.unsplash.com/photo-1563089145-599997674d42?auto=format&fit=crop&w=400&q=80`
+  - *Comentário*: "Esse pão escuro com esse molho tá no capricho! Já anotei o pedido pra próxima."
+  - *Tempo*: Há 22 min
+- **@carmy_thebear** (Carmy Berzatto)
+  - *Avatar*: `https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=400&q=80`
+  - *Comentário*: "Belo selamento de chapa. O manjericão fresco faz toda a diferença."
+  - *Tempo*: Há 10 min
+
+---
+
+## 🍕 Meal 14: Borda Napolitana de Primeira (Lucas - Post 1)
+
+### Autor (Perfil)
+- **ID**: `usr-11`
+- **Nome**: Lucas
+- **Username**: `@lucas_hedgehog`
+- **Foto de Perfil**: `https://images.unsplash.com/photo-1563089145-599997674d42?auto=format&fit=crop&w=400&q=80`
+- **Bio**: "Gotta go fast... mas para comer uma boa pizza ou tomar um café especial eu desacelero."
+
+### Restaurante
+- **ID**: `rest-napoli`
+- **Nome**: Forno & Lenha Pizzeria Napoletana
+- **Categoria**: Pizzaria Artesanal & Forno a Lenha
+- **Localização**: Vila Madalena, São Paulo - SP
+
+### Metadados da Postagem
+- **ID**: `meal-014`
+- **Data ISO**: `2026-10-24T22:15:00Z`
+- **Horário Relativo**: Ontem às 22:15
+- **Curtidas**: 478
+- **Comentários**: 3
+- **Salvos**: 130
+- **Compartilhamentos**: 42
+
+### Pratos (1 Dish - Foto Real Enviada)
+1. **Pizza Napolitana Cornicione de Linguiça Artesanal com Gorgonzola Dolce**
+   - **ID**: `dish-28`
+   - **Foto**: `assets/dishes/lucas-pizza-artesanal.jpg`
+   - **Preço**: R$ 56,00
+   - **Nota**: 4.8 / 5.0 (⭐⭐⭐⭐⭐)
+   - **Comeria Novamente**: Sim (`true`)
+
+### Review Detalhada
+> "Gotta go fast pra abrir a caixa enquanto a pizza ainda tá borbulhando! Olha o tamanho desse cornicione: borda alta, aerada, cheia de alvéolos e com aquelas manchinhas de leopardo clássicas da fermentação lenta de 48 horas. Você aperta a borda e ela volta como esponja. A linguiça artesanal veio picadinha e bem condimentada com erva-doce, e o toque de gorgonzola dolce derreteu criando uma cremosidade fantástica sem roubar a cena do molho pomodoro San Marzano. Não sobrou nem migalha de borda."
+
+### Comentários
+- **@pedro_cp2077** (Pedro)
+  - *Avatar*: `https://images.unsplash.com/photo-1578632767115-351597cf2477?auto=format&fit=crop&w=400&q=80`
+  - *Comentário*: "Essa borda tá uma obra de arte! Pediu onde?"
+  - *Tempo*: Ontem às 22:40
+- **@davizin_doom** (Davizin)
+  - *Avatar*: `https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=400&q=80`
+  - *Comentário*: "Gorgonzola e linguiça artesanal é uma combinação de respeito supremo."
+  - *Tempo*: Ontem às 23:05
+- **@tony_soprano_real** (Tony Soprano)
+  - *Avatar*: `https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=400&q=80`
+  - *Comentário*: "Massa bem fermentada desse jeito é coisa fina. Me lembrou de Nápoles."
+  - *Tempo*: Ontem às 23:20
+
+---
+
+## 🥐 Meal 15: Brunch, Folhado e Espuma (Lucas - Post 2)
+
+### Autor (Perfil)
+- **ID**: `usr-11`
+- **Nome**: Lucas
+- **Username**: `@lucas_hedgehog`
+- **Foto de Perfil**: `https://images.unsplash.com/photo-1563089145-599997674d42?auto=format&fit=crop&w=400&q=80`
+
+### Restaurante
+- **ID**: `rest-botanica`
+- **Nome**: Le Petit Bistro & Café Botanique
+- **Categoria**: Cafeteria Especial & Pâtisserie Francesa
+- **Localização**: Jardins, São Paulo - SP
+
+### Metadados da Postagem
+- **ID**: `meal-015`
+- **Data ISO**: `2026-10-24T10:30:00Z`
+- **Horário Relativo**: Ontem às 10:30
+- **Curtidas**: 395
+- **Comentários**: 2
+- **Salvos**: 91
+- **Compartilhamentos**: 19
+
+### Pratos (1 Dish - Foto Real Enviada)
+1. **Croissant Francês Folhado Amanteigado com Cappuccino Cremoso Polvilhado de Cacau**
+   - **ID**: `dish-29`
+   - **Foto**: `assets/dishes/lucas-croissant-cappuccino.jpg`
+   - **Preço**: R$ 32,00
+   - **Nota**: 4.5 / 5.0 (⭐⭐⭐⭐½)
+   - **Comeria Novamente**: Sim (`true`)
+
+### Review Detalhada
+> "Pausa na correria para recarregar as energias com estilo em uma mesa de mármore bem agradável nos Jardins. O croissant é simplesmente um primor de laminação: casca douradíssima que estala na primeira mordida, interior com alvéolos em favo de mel super macios e aroma amanteigado potente. O cappuccino gelado veio com uma montanha de espuma densa polvilhada de cacau 100%, que corta a untuosidade da manteiga com perfeição. Começar o dia com essa dobradinha melhora qualquer humor."
+
+### Comentários
+- **@pedro_cp2077** (Pedro)
+  - *Avatar*: `https://images.unsplash.com/photo-1578632767115-351597cf2477?auto=format&fit=crop&w=400&q=80`
+  - *Comentário*: "Esse cappuccino parece uma sobremesa de tão denso! Muito bom."
+  - *Tempo*: Ontem às 11:00
+- **@wednesday_dark** (Wednesday Addams)
+  - *Avatar*: `https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80`
+  - *Comentário*: "Ao menos o cacau polvilhado é amargo e escuro. Aceitável."
+  - *Tempo*: Ontem às 11:45
+
+---
+
+## 🍽️ Meal 1: Almoço Solo Conforto (Spike Spiegel)
+
+### Autor (Perfil)
+- **ID**: `usr-01`
+- **Nome**: Spike Spiegel
+- **Username**: `@spikespiegel`
+- **Foto de Perfil**: `https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=400&q=80`
+- **Bio**: "Caçador de recompensas e entusiasta de um bom prato feito nas horas vagas."
+
+### Restaurante
+- **ID**: `rest-mancini`
+- **Nome**: Cantina Família Mancini
+- **Categoria**: Cozinha Italiana Tradicional
+- **Localização**: Bela Vista, São Paulo - SP
+
+### Metadados da Postagem
+- **ID**: `meal-001`
+- **Data ISO**: `2026-10-25T11:30:00Z`
+- **Horário Relativo**: Há 2 horas
+- **Curtidas**: 142
+- **Comentários**: 3
+- **Salvos**: 38
+- **Compartilhamentos**: 12
+
+### Pratos (1 Dish)
+1. **Filé à Parmegiana com Arroz e Fritas**
+   - **ID**: `dish-01`
+   - **Foto**: `https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?auto=format&fit=crop&w=800&q=80`
+   - **Preço**: R$ 89,90
+   - **Nota**: 4.5 / 5.0 (⭐⭐⭐⭐½)
+   - **Comeria Novamente**: Sim (`true`)
+
+### Review Detalhada
+> "Depois de um dia cansativo correndo pela cidade atrás de trabalho, nada supera o conforto de um parmegiana clássico bem servido. A porção é gigantesca, serve facilmente duas pessoas, mas encarei sozinho. O empanado manteve a crocância mesmo debaixo da generosa camada de molho de tomate rústico, que tinha zero acidez. O queijo gratinado veio no ponto perfeito com aquelas bordinhas tostadas que fazem toda a diferença. O arroz estava soltinho e a batata frita bem sequinha. Só não leva nota máxima porque o prato demorou cerca de 40 minutos para chegar à mesa, mas a comida em si compensou cada minuto de espera."
+
+### Comentários
+- **@jet_black** (Jet Black)
+  - *Avatar*: `https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=400&q=80`
+  - *Comentário*: "Espero que dessa vez tenha carne de verdade e não só pimentão, Spike!"
+  - *Tempo*: Há 1 hora
+- **@faye_val** (Faye Valentine)
+  - *Avatar*: `https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80`
+  - *Comentário*: "Cadê meu convite? E não me diga que você vai deixar a conta pendurada de novo..."
+  - *Tempo*: Há 45 min
+- **@ed_radical** (Edward Wong)
+  - *Avatar*: `https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=400&q=80`
+  - *Comentário*: "Queijo queijo queijo! Parece muito crocante!"
+  - *Tempo*: Há 20 min
+
+---
+
+## 🍔 Meal 2: Burger Night & Petiscos (Mia Wallace)
+
+### Autor (Perfil)
+- **ID**: `usr-02`
+- **Nome**: Mia Wallace
+- **Username**: `@mia_wallace`
+- **Foto de Perfil**: `https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=400&q=80`
+
+### Restaurante
+- **ID**: `rest-smash`
+- **Nome**: The Smashing Burger Co.
+- **Categoria**: Hamburgueria Artesanal
+- **Localização**: Pinheiros, São Paulo - SP
+
+### Metadados da Postagem
+- **ID**: `meal-002`
+- **Data ISO**: `2026-10-25T08:30:00Z`
+- **Horário Relativo**: Há 5 horas
+- **Curtidas**: 389
+- **Comentários**: 2
+- **Salvos**: 95
+- **Compartilhamentos**: 24
+
+### Pratos (2 Dishes)
+1. **Truffled Double Smash Burger**
+   - **ID**: `dish-02`
+   - **Foto**: `https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=800&q=80`
+   - **Preço**: R$ 46,00
+   - **Nota**: 5.0 / 5.0 (⭐⭐⭐⭐⭐)
+   - **Comeria Novamente**: Sim (`true`)
+2. **Batatas Rústicas com Alecrim e Aioli**
+   - **ID**: `dish-03`
+   - **Foto**: `https://images.unsplash.com/photo-1573080496219-bb080dd4f877?auto=format&fit=crop&w=800&q=80`
+   - **Preço**: R$ 26,00
+   - **Nota**: 3.5 / 5.0 (⭐⭐⭐½)
+   - **Comeria Novamente**: Não (`false`)
+
+### Review Detalhada
+> "Parada obrigatória no pós-rolê em Pinheiros. O Double Smash beira a perfeição: dois discos de 90g com crosta de Maillard impecável, queijo cheddar inglês derretendo até a bandeja e um toque de trufas na maionese da casa. Volto fácil pelo hambúrguer."
+
+### Comentários
+- **@vincent_royale** (Vincent Vega)
+  - *Comentário*: "Eles têm maionese holandesa pra batata frita por lá ou só esse aioli?"
+- **@jules_righteous** (Jules Winnfield)
+  - *Comentário*: "Mmm-mmm! Esse parece de fato um hambúrguer muito saboroso."
+
+---
+
+## 🍣 Meal 3: Jantar Omakase & Noodles (Geralt de Rívia)
+
+### Autor (Perfil)
+- **ID**: `usr-03`
+- **Nome**: Geralt de Rívia
+- **Username**: `@white_wolf_geralt`
+- **Foto de Perfil**: `https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=400&q=80`
+
+### Restaurante
+- **ID**: `rest-shin`
+- **Nome**: Shin Zushi Express
+- **Categoria**: Culinária Japonesa & Ramen
+- **Localização**: Paraíso, São Paulo - SP
+
+### Metadados da Postagem
+- **ID**: `meal-003`
+- **Data ISO**: `2026-10-24T21:15:00Z`
+- **Horário Relativo**: Ontem às 21:15
+- **Curtidas**: 215
+- **Comentários**: 3
+- **Salvos**: 54
+- **Compartilhamentos**: 18
+
+### Pratos (3 Dishes)
+1. **Salmon Tartar Trufado com Chips de Batata-Doce** (R$ 52,00 | ⭐⭐⭐⭐ 4.0 | Comeria: Sim)
+2. **Uramaki Ebi Spicy (Camarão Empanado e Togarashi)** (R$ 44,00 | ⭐⭐⭐⭐½ 4.5 | Comeria: Sim)
+3. **Tonkotsu Ramen Especial com Chashu** (R$ 68,00 | ⭐⭐½ 2.5 | Comeria: Não)
+
+---
+
+## 🍝 Meal 4: Banquete Italiano Dominical (Tony Soprano)
+
+### Autor (Perfil)
+- **ID**: `usr-04`
+- **Nome**: Tony Soprano
+- **Username**: `@tony_soprano_real`
+- **Foto de Perfil**: `https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=400&q=80`
+
+### Restaurante
+- **ID**: `rest-mancini`
+- **Nome**: Cantina Família Mancini
+- **Categoria**: Cozinha Italiana Tradicional
+- **Localização**: Bela Vista, São Paulo - SP
+
+### Metadados da Postagem
+- **ID**: `meal-004`
+- **Data ISO**: `2026-10-23T14:00:00Z`
+- **Horário Relativo**: Há 2 dias
+- **Curtidas**: 541
+- **Comentários**: 3
+- **Salvos**: 120
+- **Compartilhamentos**: 45
+
+### Pratos (4 Dishes)
+1. **Bruschetta Tradicional ao Pomodoro** (R$ 38,00 | ⭐⭐⭐⭐ 4.0 | Comeria: Sim)
+2. **Bife de Ancho Grelhado com Ervas** (R$ 98,00 | ⭐⭐⭐⭐⭐ 5.0 | Comeria: Sim)
+3. **Fettuccine Alfredo no Parmigiano** (R$ 74,00 | ⭐⭐⭐⭐½ 4.5 | Comeria: Sim)
+4. **Tiramisù Clássico** (R$ 34,00 | ⭐½ 1.5 | Comeria: Não)
+
+---
+
+## 🥪 Meal 5: Perfeição e Pressão na Cozinha (Carmy Berzatto)
+
+### Autor (Perfil)
+- **ID**: `usr-05`
+- **Nome**: Carmy Berzatto
+- **Username**: `@carmy_thebear`
+- **Foto de Perfil**: `https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=400&q=80`
+
+### Restaurante
+- **ID**: `rest-original-beef`
+- **Nome**: The Original Beef of Chicagoland
+- **Categoria**: Sanduíches & Cozinha de Raiz
+- **Localização**: Santa Cecília, São Paulo - SP
+
+### Pratos (2 Dishes)
+1. **Sanduíche Italian Beef Au Jus com Giardiniera** (R$ 48,00 | ⭐⭐⭐⭐⭐ 5.0 | Comeria: Sim)
+2. **Batata Rústica Frita em Gordura Bovina** (R$ 22,00 | ⭐⭐⭐⭐½ 4.5 | Comeria: Sim)
+
+---
+
+## 🥟 Meal 6: Banquete dos Espíritos (Chihiro Ogino)
+
+### Autor (Perfil)
+- **ID**: `usr-06`
+- **Nome**: Chihiro Ogino
+- **Username**: `@chihiro_spirited`
+- **Foto de Perfil**: `https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80`
+
+### Restaurante
+- **ID**: `rest-yubaba`
+- **Nome**: Banquete dos Espíritos
+- **Categoria**: Culinária Tradicional Asiática
+- **Localização**: Liberdade, São Paulo - SP
+
+### Pratos (3 Dishes)
+1. **Baozi Fumegante de Barriga de Porco** (R$ 32,00 | ⭐⭐⭐⭐⭐ 5.0 | Comeria: Sim)
+2. **Guioza Grelhado com Nirá e Porco** (R$ 28,00 | ⭐⭐⭐⭐ 4.0 | Comeria: Sim)
+3. **Chá Verde Cerimonial Matcha Gelado** (R$ 18,00 | ⭐⭐⭐⭐½ 4.5 | Comeria: Sim)
+
+---
+
+## 🍗 Meal 7: Química e Controle de Qualidade (Walter White)
+
+### Autor (Perfil)
+- **ID**: `usr-07`
+- **Nome**: Walter White
+- **Username**: `@heisenberg_cook`
+- **Foto de Perfil**: `https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=400&q=80`
+
+### Restaurante
+- **ID**: `rest-pollos`
+- **Nome**: Los Pollos Hermanos
+- **Categoria**: Frango Crocante & Tex-Mex
+- **Localização**: Moema, São Paulo - SP
+
+### Pratos (3 Dishes - Teste de Preço Nulo)
+1. **Balde de Frango Frito Especial Hermanos** (R$ 64,00 | ⭐⭐⭐⭐⭐ 5.0 | Comeria: Sim)
+2. **Purê de Batatas com Gravy Apimentado** (R$ 19,00 | ⭐⭐⭐⭐ 4.0 | Comeria: Sim)
+3. **Slaw Tradicional de Repolho Roxo** (*null* | ⭐⭐ 2.0 | Comeria: Não)
+
+---
+
+## ☕ Meal 8: Amargura Elegante (Wednesday Addams)
+
+### Autor (Perfil)
+- **ID**: `usr-08`
+- **Nome**: Wednesday Addams
+- **Username**: `@wednesday_dark`
+- **Foto de Perfil**: `https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80`
+
+### Restaurante
+- **ID**: `rest-nevermore`
+- **Nome**: Café Raven & Dagger
+- **Categoria**: Cafeteria Especial & Confeitaria Dark
+- **Localização**: Vila Madalena, São Paulo - SP
+
+### Pratos (2 Dishes)
+1. **Quad Shot Espresso Vantablack** (R$ 16,00 | ⭐⭐⭐⭐⭐ 5.0 | Comeria: Sim)
+2. **Torta Trigo Sarraceno com Cacau 85% e Sal Negro** (R$ 32,00 | ⭐⭐⭐⭐½ 4.5 | Comeria: Sim)
+
+---
+
+## 🍣 Meal 9: Balcão Tradicional no Paraíso (Spike Spiegel - Post 2)
+- **Restaurante**: Shin Zushi Express (`rest-shin`)
+- **Pratos**:
+  1. Combo Nigiri Especial do Chef (8 peças) (R$ 78,00 | ⭐⭐⭐⭐⭐ 5.0 | Comeria: Sim)
+  2. Robata de Barriga de Salmão com Tare (R$ 24,00 | ⭐⭐⭐⭐ 4.0 | Comeria: Sim)
+
+---
+
+## 🍔 Meal 10: Rápido e Sem Firula (Spike Spiegel - Post 3)
+- **Restaurante**: The Smashing Burger Co. (`rest-smash`)
+- **Prato**:
+  1. Smash Bacon BBQ Crocante (R$ 42,00 | ⭐⭐⭐⭐ 4.0 | Comeria: Sim)
+
+---
+
+## 🥪 Meal 11: As Almôndegas da Nonna (Tony Soprano - Post 2)
+- **Restaurante**: The Original Beef of Chicagoland (`rest-original-beef`)
+- **Prato**:
+  1. Sanduíche de Almôndegas da Nonna no Pão Italiano (R$ 45,00 | ⭐⭐⭐⭐⭐ 5.0 | Comeria: Sim)
+
+---
+
+## 📦 Dados Estruturados em JSON (Pronto para `source-meals.json` e Desenvolvimento)
+
+```json
+[
+  {
+    "id": "meal-012",
+    "createdAt": "2026-10-25T13:10:00Z",
+    "timeAgo": "Há 20 minutos",
+    "user": {
+      "id": "usr-09",
+      "name": "Davizin",
+      "username": "@davizin_doom",
+      "avatarUrl": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=400&q=80",
+      "bio": "A culinária de Latvéria não tolera pratos medíocres. Exigência imperial em cada garfada."
+    },
+    "restaurant": {
+      "id": "rest-varanda",
+      "name": "Varanda Gastrobar & Parrilla",
+      "category": "Carnes Nobres & Cozinha Contemporânea",
+      "location": "Bela Vista, São Paulo - SP"
+    },
+    "dishes": [
+      {
+        "id": "dish-25",
+        "name": "Filé Mignon ao Molho Roti com Aligot Cremoso e Arroz Colorido",
+        "imageUrl": "assets/dishes/davizin-file-aligot.jpg",
+        "price": 69.00,
+        "rating": 4.5,
+        "wouldEatAgain": true
+      },
+      {
+        "id": "dish-26",
+        "name": "Hot Roll Especial Crocante Empanado na Panko com Tarê e Gengibre",
+        "imageUrl": "assets/dishes/davizin-hot-roll-crocante.jpg",
+        "price": 38.00,
+        "rating": 4.0,
+        "wouldEatAgain": true
+      }
+    ],
+    "review": "Latvéria exige rigor absoluto e consistência técnica na cozinha. O filé mignon estava com selagem de respeito na grelha, interior rosado e suculento com o molho roti enriquecendo cada corte. O aligot apresentou uma elasticidade admirável, com queijo nobre bem fundido sem se separar em óleo. O arroz colorido biro-biro com legumes soltinho fechou bem a guarnição. Para a entrada, o hot roll crocante surpreendeu pelo empanamento panko sequíssimo e pelo salmão macio no centro, ainda que a redução de tarê pudesse ter uma ponta a menos de açúcar. Uma refeição digna de um monarca. O Doutor Destino aprova.",
+    "stats": {
+      "likesCount": 512,
+      "commentsCount": 3,
+      "savesCount": 114,
+      "sharesCount": 36
+    },
+    "comments": [
+      {
+        "id": "comm-28",
+        "username": "@pedro_cp2077",
+        "name": "Pedro",
+        "avatarUrl": "https://images.unsplash.com/photo-1578632767115-351597cf2477?auto=format&fit=crop&w=400&q=80",
+        "text": "Esse aligot tá com uma cara absurda de boa, Davizin! O molho roti brilhou.",
+        "timeAgo": "Há 12 min"
+      },
+      {
+        "id": "comm-29",
+        "username": "@lucas_hedgehog",
+        "name": "Lucas",
+        "avatarUrl": "https://images.unsplash.com/photo-1563089145-599997674d42?auto=format&fit=crop&w=400&q=80",
+        "text": "Duas opções de primeira na mesma mesa! Esse hot roll com tarê tá covardia.",
+        "timeAgo": "Há 8 min"
+      },
+      {
+        "id": "comm-30",
+        "username": "@spikespiegel",
+        "name": "Spike Spiegel",
+        "avatarUrl": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=400&q=80",
+        "text": "Isso sim é carne de respeito. Queria eu almoçar assim todo dia.",
+        "timeAgo": "Há 5 min"
+      }
+    ]
+  },
+  {
+    "id": "meal-013",
+    "createdAt": "2026-10-25T12:45:00Z",
+    "timeAgo": "Há 45 minutos",
+    "user": {
+      "id": "usr-10",
+      "name": "Pedro",
+      "username": "@pedro_cp2077",
+      "avatarUrl": "https://images.unsplash.com/photo-1578632767115-351597cf2477?auto=format&fit=crop&w=400&q=80",
+      "bio": "Explorando a Night City gastronômica um burger de cada vez. Chooh2 no tanque e molho no prato."
+    },
+    "restaurant": {
+      "id": "rest-smash",
+      "name": "The Smashing Burger Co.",
+      "category": "Hamburgueria Artesanal",
+      "location": "Pinheiros, São Paulo - SP"
+    },
+    "dishes": [
+      {
+        "id": "dish-27",
+        "name": "Burger Artesanal Pomodoro com Mozzarella de Búfala e Manjericão no Pão Australiano",
+        "imageUrl": "assets/dishes/pedro-smash-burger.jpg",
+        "price": 44.00,
+        "rating": 5.0,
+        "wouldEatAgain": true
+      }
+    ],
+    "review": "Apresentação futurista servida direto na pedra de ardósia preta. Esse burger é praticamente uma fusão genial de pizza margherita clássica com hambúrguer artesanal parrudo. O blend de carne de 180g estava com ponto rosado e suculência inacreditável (daqueles que pinga a cada mordida sem encharcar o pão). O pão escuro manteve a estrutura firme, o queijo derretido abraçou o molho rústico de tomate e a folha fresca de manjericão no topo trouxe o frescor exato para limpar a gordura da carne. Experiência nota 10.",
+    "stats": {
+      "likesCount": 340,
+      "commentsCount": 3,
+      "savesCount": 82,
+      "sharesCount": 21
+    },
+    "comments": [
+      {
+        "id": "comm-31",
+        "username": "@davizin_doom",
+        "name": "Davizin",
+        "avatarUrl": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=400&q=80",
+        "text": "Aprovado por Latvéria. Ponto da carne impecável e construção digna.",
+        "timeAgo": "Há 30 min"
+      },
+      {
+        "id": "comm-32",
+        "username": "@lucas_hedgehog",
+        "name": "Lucas",
+        "avatarUrl": "https://images.unsplash.com/photo-1563089145-599997674d42?auto=format&fit=crop&w=400&q=80",
+        "text": "Esse pão escuro com esse molho tá no capricho! Já anotei o pedido pra próxima.",
+        "timeAgo": "Há 22 min"
+      },
+      {
+        "id": "comm-33",
+        "username": "@carmy_thebear",
+        "name": "Carmy Berzatto",
+        "avatarUrl": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=400&q=80",
+        "text": "Belo selamento de chapa. O manjericão fresco faz toda a diferença.",
+        "timeAgo": "Há 10 min"
+      }
+    ]
+  },
+  {
+    "id": "meal-014",
+    "createdAt": "2026-10-24T22:15:00Z",
+    "timeAgo": "Ontem às 22:15",
+    "user": {
+      "id": "usr-11",
+      "name": "Lucas",
+      "username": "@lucas_hedgehog",
+      "avatarUrl": "https://images.unsplash.com/photo-1563089145-599997674d42?auto=format&fit=crop&w=400&q=80",
+      "bio": "Gotta go fast... mas para comer uma boa pizza ou tomar um café especial eu desacelero."
+    },
+    "restaurant": {
+      "id": "rest-napoli",
+      "name": "Forno & Lenha Pizzeria Napoletana",
+      "category": "Pizzaria Artesanal & Forno a Lenha",
+      "location": "Vila Madalena, São Paulo - SP"
+    },
+    "dishes": [
+      {
+        "id": "dish-28",
+        "name": "Pizza Napolitana Cornicione de Linguiça Artesanal com Gorgonzola Dolce",
+        "imageUrl": "assets/dishes/lucas-pizza-artesanal.jpg",
+        "price": 56.00,
+        "rating": 4.8,
+        "wouldEatAgain": true
+      }
+    ],
+    "review": "Gotta go fast pra abrir a caixa enquanto a pizza ainda tá borbulhando! Olha o tamanho desse cornicione: borda alta, aerada, cheia de alvéolos e com aquelas manchinhas de leopardo clássicas da fermentação lenta de 48 horas. Você aperta a borda e ela volta como esponja. A linguiça artesanal veio picadinha e bem condimentada com erva-doce, e o toque de gorgonzola dolce derreteu criando uma cremosidade fantástica sem roubar a cena do molho pomodoro San Marzano. Não sobrou nem migalha de borda.",
+    "stats": {
+      "likesCount": 478,
+      "commentsCount": 3,
+      "savesCount": 130,
+      "sharesCount": 42
+    },
+    "comments": [
+      {
+        "id": "comm-34",
+        "username": "@pedro_cp2077",
+        "name": "Pedro",
+        "avatarUrl": "https://images.unsplash.com/photo-1578632767115-351597cf2477?auto=format&fit=crop&w=400&q=80",
+        "text": "Essa borda tá uma obra de arte! Pediu onde?",
+        "timeAgo": "Ontem às 22:40"
+      },
+      {
+        "id": "comm-35",
+        "username": "@davizin_doom",
+        "name": "Davizin",
+        "avatarUrl": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=400&q=80",
+        "text": "Gorgonzola e linguiça artesanal é uma combinação de respeito supremo.",
+        "timeAgo": "Ontem às 23:05"
+      },
+      {
+        "id": "comm-36",
+        "username": "@tony_soprano_real",
+        "name": "Tony Soprano",
+        "avatarUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=400&q=80",
+        "text": "Massa bem fermentada desse jeito é coisa fina. Me lembrou de Nápoles.",
+        "timeAgo": "Ontem às 23:20"
+      }
+    ]
+  },
+  {
+    "id": "meal-015",
+    "createdAt": "2026-10-24T10:30:00Z",
+    "timeAgo": "Ontem às 10:30",
+    "user": {
+      "id": "usr-11",
+      "name": "Lucas",
+      "username": "@lucas_hedgehog",
+      "avatarUrl": "https://images.unsplash.com/photo-1563089145-599997674d42?auto=format&fit=crop&w=400&q=80",
+      "bio": "Gotta go fast... mas para comer uma boa pizza ou tomar um café especial eu desacelero."
+    },
+    "restaurant": {
+      "id": "rest-botanica",
+      "name": "Le Petit Bistro & Café Botanique",
+      "category": "Cafeteria Especial & Pâtisserie Francesa",
+      "location": "Jardins, São Paulo - SP"
+    },
+    "dishes": [
+      {
+        "id": "dish-29",
+        "name": "Croissant Francês Folhado Amanteigado com Cappuccino Cremoso Polvilhado de Cacau",
+        "imageUrl": "assets/dishes/lucas-croissant-cappuccino.jpg",
+        "price": 32.00,
+        "rating": 4.5,
+        "wouldEatAgain": true
+      }
+    ],
+    "review": "Pausa na correria para recarregar as energias com estilo em uma mesa de mármore bem agradável nos Jardins. O croissant é simplesmente um primor de laminação: casca douradíssima que estala na primeira mordida, interior com alvéolos em favo de mel super macios e aroma amanteigado potente. O cappuccino gelado veio com uma montanha de espuma densa polvilhada de cacau 100%, que corta a untuosidade da manteiga com perfeição. Começar o dia com essa dobradinha melhora qualquer humor.",
+    "stats": {
+      "likesCount": 395,
+      "commentsCount": 2,
+      "savesCount": 91,
+      "sharesCount": 19
+    },
+    "comments": [
+      {
+        "id": "comm-37",
+        "username": "@pedro_cp2077",
+        "name": "Pedro",
+        "avatarUrl": "https://images.unsplash.com/photo-1578632767115-351597cf2477?auto=format&fit=crop&w=400&q=80",
+        "text": "Esse cappuccino parece uma sobremesa de tão denso! Muito bom.",
+        "timeAgo": "Ontem às 11:00"
+      },
+      {
+        "id": "comm-38",
+        "username": "@wednesday_dark",
+        "name": "Wednesday Addams",
+        "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80",
+        "text": "Ao menos o cacau polvilhado é amargo e escuro. Aceitável.",
+        "timeAgo": "Ontem às 11:45"
+      }
+    ]
+  },
+  {
+    "id": "meal-001",
+    "createdAt": "2026-10-25T11:30:00Z",
+    "timeAgo": "Há 2 horas",
+    "user": {
+      "id": "usr-01",
+      "name": "Spike Spiegel",
+      "username": "@spikespiegel",
+      "avatarUrl": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=400&q=80",
+      "bio": "Caçador de recompensas e entusiasta de um bom prato feito nas horas vagas."
+    },
+    "restaurant": {
+      "id": "rest-mancini",
+      "name": "Cantina Família Mancini",
+      "category": "Cozinha Italiana Tradicional",
+      "location": "Bela Vista, São Paulo - SP"
+    },
+    "dishes": [
+      {
+        "id": "dish-01",
+        "name": "Filé à Parmegiana com Arroz e Fritas",
+        "imageUrl": "https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?auto=format&fit=crop&w=800&q=80",
+        "price": 89.90,
+        "rating": 4.5,
+        "wouldEatAgain": true
+      }
+    ],
+    "review": "Depois de um dia cansativo correndo pela cidade atrás de trabalho, nada supera o conforto de um parmegiana clássico bem servido. A porção é gigantesca, serve facilmente duas pessoas, mas encarei sozinho. O empanado manteve a crocância mesmo debaixo da generosa camada de molho de tomate rústico, que tinha zero acidez. O queijo gratinado veio no ponto perfeito com aquelas bordinhas tostadas que fazem toda a diferença. O arroz estava soltinho e a batata frita bem sequinha. Só não leva nota máxima porque o prato demorou cerca de 40 minutos para chegar à mesa, mas a comida em si compensou cada minuto de espera.",
+    "stats": {
+      "likesCount": 142,
+      "commentsCount": 3,
+      "savesCount": 38,
+      "sharesCount": 12
+    },
+    "comments": [
+      {
+        "id": "comm-01",
+        "username": "@jet_black",
+        "name": "Jet Black",
+        "avatarUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=400&q=80",
+        "text": "Espero que dessa vez tenha carne de verdade e não só pimentão, Spike!",
+        "timeAgo": "Há 1 hora"
+      },
+      {
+        "id": "comm-02",
+        "username": "@faye_val",
+        "name": "Faye Valentine",
+        "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80",
+        "text": "Cadê meu convite? E não me diga que você vai deixar a conta pendurada de novo...",
+        "timeAgo": "Há 45 min"
+      },
+      {
+        "id": "comm-03",
+        "username": "@ed_radical",
+        "name": "Edward Wong",
+        "avatarUrl": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=400&q=80",
+        "text": "Queijo queijo queijo! Parece muito crocante!",
+        "timeAgo": "Há 20 min"
+      }
+    ]
+  },
+  {
+    "id": "meal-002",
+    "createdAt": "2026-10-25T08:30:00Z",
+    "timeAgo": "Há 5 horas",
+    "user": {
+      "id": "usr-02",
+      "name": "Mia Wallace",
+      "username": "@mia_wallace",
+      "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=400&q=80",
+      "bio": "Aprecio silêncios confortáveis e milk-shakes de 5 dólares."
+    },
+    "restaurant": {
+      "id": "rest-smash",
+      "name": "The Smashing Burger Co.",
+      "category": "Hamburgueria Artesanal",
+      "location": "Pinheiros, São Paulo - SP"
+    },
+    "dishes": [
+      {
+        "id": "dish-02",
+        "name": "Truffled Double Smash Burger",
+        "imageUrl": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=800&q=80",
+        "price": 46.00,
+        "rating": 5.0,
+        "wouldEatAgain": true
+      },
+      {
+        "id": "dish-03",
+        "name": "Batatas Rústicas com Alecrim e Aioli",
+        "imageUrl": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?auto=format&fit=crop&w=800&q=80",
+        "price": 26.00,
+        "rating": 3.5,
+        "wouldEatAgain": false
+      }
+    ],
+    "review": "Parada obrigatória no pós-rolê em Pinheiros. O Double Smash beira a perfeição: dois discos de 90g com crosta de Maillard impecável, queijo cheddar inglês derretendo até a bandeja e um toque de trufas na maionese da casa que adiciona sabor sem ficar enjoativo. O pão brioche selado segurou a estrutura do início ao fim sem empapar. Por outro lado, as batatas rústicas deixaram a desejar. Vieram com excesso de óleo e alguns pedaços de alecrim estavam queimados e amargos. O aioli de alho confitado salvou a porção, mas pelo preço das fritas esperava mais padrão. Volto fácil pelo hambúrguer.",
+    "stats": {
+      "likesCount": 389,
+      "commentsCount": 2,
+      "savesCount": 95,
+      "sharesCount": 24
+    },
+    "comments": [
+      {
+        "id": "comm-04",
+        "username": "@vincent_royale",
+        "name": "Vincent Vega",
+        "avatarUrl": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=400&q=80",
+        "text": "Eles têm maionese holandesa pra batata frita por lá ou só esse aioli?",
+        "timeAgo": "Há 3 horas"
+      },
+      {
+        "id": "comm-05",
+        "username": "@jules_righteous",
+        "name": "Jules Winnfield",
+        "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=400&q=80",
+        "text": "Mmm-mmm! Esse parece de fato um hambúrguer muito saboroso.",
+        "timeAgo": "Há 2 horas"
+      }
+    ]
+  },
+  {
+    "id": "meal-003",
+    "createdAt": "2026-10-24T21:15:00Z",
+    "timeAgo": "Ontem às 21:15",
+    "user": {
+      "id": "usr-03",
+      "name": "Geralt de Rívia",
+      "username": "@white_wolf_geralt",
+      "avatarUrl": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=400&q=80",
+      "bio": "Hm. Rastreando monstros de dia e procurando comida quente à noite."
+    },
+    "restaurant": {
+      "id": "rest-shin",
+      "name": "Shin Zushi Express",
+      "category": "Culinária Japonesa & Ramen",
+      "location": "Paraíso, São Paulo - SP"
+    },
+    "dishes": [
+      {
+        "id": "dish-04",
+        "name": "Salmon Tartar Trufado com Chips de Batata-Doce",
+        "imageUrl": "https://images.unsplash.com/photo-1617196034796-73dfa7b1fd56?auto=format&fit=crop&w=800&q=80",
+        "price": 52.00,
+        "rating": 4.0,
+        "wouldEatAgain": true
+      },
+      {
+        "id": "dish-05",
+        "name": "Uramaki Ebi Spicy (Camarão Empanado e Togarashi)",
+        "imageUrl": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?auto=format&fit=crop&w=800&q=80",
+        "price": 44.00,
+        "rating": 4.5,
+        "wouldEatAgain": true
+      },
+      {
+        "id": "dish-06",
+        "name": "Tonkotsu Ramen Especial com Chashu",
+        "imageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=800&q=80",
+        "price": 68.00,
+        "rating": 2.5,
+        "wouldEatAgain": false
+      }
+    ],
+    "review": "Hm. Entrei buscando uma refeição quente e substancial para recarregar as energias. As duas entradas surpreenderam positivamente: o salmão estava com corte preciso e frescor evidente, com o azeite trufado dosado com moderação. O uramaki de camarão tinha crocância marcante e uma picância sutil e agradável pelo togarashi. No entanto, o prato que motivou a visita — o Tonkotsu Ramen — foi uma decepção. O caldo de osso de porco chegou apenas morno, a carne de chashu estava seca e com pouquíssima gordura entremeada, e o ovo marinado veio com a gema totalmente rígida e cozida em excesso. Uma casa desse porte precisa ter mais controle de temperatura e cocção.",
+    "stats": {
+      "likesCount": 215,
+      "commentsCount": 3,
+      "savesCount": 54,
+      "sharesCount": 18
+    },
+    "comments": [
+      {
+        "id": "comm-06",
+        "username": "@dandelion_bard",
+        "name": "Jaskier",
+        "avatarUrl": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?auto=format&fit=crop&w=400&q=80",
+        "text": "Meu amigo, deveríamos compor uma balada sobre a textura desse camarão!",
+        "timeAgo": "Ontem às 22:00"
+      },
+      {
+        "id": "comm-07",
+        "username": "@yennefer_v",
+        "name": "Yennefer de Vengerberg",
+        "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80",
+        "text": "Reclamando de caldo frio de novo, Geralt? Você já comeu coisas infinitamente piores em Kaer Morhen.",
+        "timeAgo": "Ontem às 22:34"
+      },
+      {
+        "id": "comm-08",
+        "username": "@zireael_ciri",
+        "name": "Ciri",
+        "avatarUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=400&q=80",
+        "text": "O tartar parece ótimo. Na próxima passagem por Novigrad me leve lá.",
+        "timeAgo": "Ontem às 23:10"
+      }
+    ]
+  },
+  {
+    "id": "meal-004",
+    "createdAt": "2026-10-23T14:00:00Z",
+    "timeAgo": "Há 2 dias",
+    "user": {
+      "id": "usr-04",
+      "name": "Tony Soprano",
+      "username": "@tony_soprano_real",
+      "avatarUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=400&q=80",
+      "bio": "Consultor de gestão de resíduos. Valorizo lealdade, família e uma boa massa."
+    },
+    "restaurant": {
+      "id": "rest-mancini",
+      "name": "Cantina Família Mancini",
+      "category": "Cozinha Italiana Tradicional",
+      "location": "Bela Vista, São Paulo - SP"
+    },
+    "dishes": [
+      {
+        "id": "dish-07",
+        "name": "Bruschetta Tradicional ao Pomodoro e Manjericão",
+        "imageUrl": "https://images.unsplash.com/photo-1572695157366-5e585ab2b69f?auto=format&fit=crop&w=800&q=80",
+        "price": 38.00,
+        "rating": 4.0,
+        "wouldEatAgain": true
+      },
+      {
+        "id": "dish-08",
+        "name": "Bife de Ancho Grelhado com Sal Grosso e Ervas",
+        "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80",
+        "price": 98.00,
+        "rating": 5.0,
+        "wouldEatAgain": true
+      },
+      {
+        "id": "dish-09",
+        "name": "Fettuccine Alfredo Clássico no Parmigiano Reggiano",
+        "imageUrl": "https://images.unsplash.com/photo-1645112411341-6c4fd023714a?auto=format&fit=crop&w=800&q=80",
+        "price": 74.00,
+        "rating": 4.5,
+        "wouldEatAgain": true
+      },
+      {
+        "id": "dish-10",
+        "name": "Tiramisù Clássico com Cacau e Café Espresso",
+        "imageUrl": "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9?auto=format&fit=crop&w=800&q=80",
+        "price": 34.00,
+        "rating": 1.5,
+        "wouldEatAgain": false
+      }
+    ],
+    "review": "Almoço longo de domingo em família, mesa cheia e quatro horas de conversa. A bruschetta abriu os trabalhos com dignidade: pão rústico de fermentação alta, tomates muito doces e azeite extravirgem honesto. O ancho foi o ápice: corte espesso de 450g, centro vermelho e suculento, crosta selada na grelha derretendo como manteiga. O fettuccine acompanhou à altura, feito com receita italiana verdadeira sem creme de leite artificial, só manteiga batida com bastante queijo curado. Porém, a experiência foi manchada no grand finale: o tiramisù estava intragável. Biscoito encharcado a ponto de virar uma pasta gosmenta e o creme claramente usava chantilly pronto misturado com queijo de baixa qualidade em vez de mascarpone fresco. Não comemos nem três colheres. Venham pelas massas e carnes, mas dispensem o doce.",
+    "stats": {
+      "likesCount": 541,
+      "commentsCount": 3,
+      "savesCount": 120,
+      "sharesCount": 45
+    },
+    "comments": [
+      {
+        "id": "comm-09",
+        "username": "@silvio_dante",
+        "name": "Silvio Dante",
+        "avatarUrl": "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=400&q=80",
+        "text": "O que eu sempre repito: massa e carne primeiro, sobremesa a gente resolve depois.",
+        "timeAgo": "Há 2 dias"
+      },
+      {
+        "id": "comm-10",
+        "username": "@carmela_soprano",
+        "name": "Carmela Soprano",
+        "avatarUrl": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=400&q=80",
+        "text": "Você comeu toda essa carne sozinho, Anthony? E a sua pressão?",
+        "timeAgo": "Há 2 dias"
+      },
+      {
+        "id": "comm-11",
+        "username": "@paulie_gualtieri",
+        "name": "Paulie Walnuts",
+        "avatarUrl": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?auto=format&fit=crop&w=400&q=80",
+        "text": "Heh heh! Esse ancho tá um espetáculo! Na próxima me convida junto.",
+        "timeAgo": "Há 1 dia"
+      }
+    ]
+  },
+  {
+    "id": "meal-005",
+    "createdAt": "2026-10-25T12:15:00Z",
+    "timeAgo": "Há 1 hora",
+    "user": {
+      "id": "usr-05",
+      "name": "Carmy Berzatto",
+      "username": "@carmy_thebear",
+      "avatarUrl": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=400&q=80",
+      "bio": "Chef de cozinha. Cada segundo conta. Obsessão pelo padrão e textura."
+    },
+    "restaurant": {
+      "id": "rest-original-beef",
+      "name": "The Original Beef of Chicagoland",
+      "category": "Sanduíches & Cozinha de Raiz",
+      "location": "Santa Cecília, São Paulo - SP"
+    },
+    "dishes": [
+      {
+        "id": "dish-11",
+        "name": "Sanduíche Italian Beef Au Jus com Giardiniera",
+        "imageUrl": "https://images.unsplash.com/photo-1550547660-d9450f859349?auto=format&fit=crop&w=800&q=80",
+        "price": 48.00,
+        "rating": 5.0,
+        "wouldEatAgain": true
+      },
+      {
+        "id": "dish-12",
+        "name": "Batata Rústica Frita em Gordura Bovina",
+        "imageUrl": "https://images.unsplash.com/photo-1585109649139-366815a0d713?auto=format&fit=crop&w=800&q=80",
+        "price": 22.00,
+        "rating": 4.5,
+        "wouldEatAgain": true
+      }
+    ],
+    "review": "O nível de consistência do beef é assustador. Peito bovino assado lentamente por 12 horas, fatiado contra a fibra quase translúcido, mergulhado no caldo rico em colágeno e temperado com orégano seco e alho. A giardiniera caseira traz a acidez e crocância que quebra a suntuosidade da carne. O pão endurecido na medida certa aguenta o mergulho rápido no caldo sem se desintegrar. Uma aula de cozinha despretensiosa e execução impecável. Sim chef!",
+    "stats": {
+      "likesCount": 612,
+      "commentsCount": 3,
+      "savesCount": 180,
+      "sharesCount": 53
+    },
+    "comments": [
+      {
+        "id": "comm-12",
+        "username": "@sydney_cheffing",
+        "name": "Sydney Adamu",
+        "avatarUrl": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=400&q=80",
+        "text": "A acidez dessa giardiniera parece inacreditável. Precisamos testar essa proporção no nosso menu.",
+        "timeAgo": "Há 40 min"
+      },
+      {
+        "id": "comm-13",
+        "username": "@cousin_richie",
+        "name": "Richie Jerimovich",
+        "avatarUrl": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?auto=format&fit=crop&w=400&q=80",
+        "text": "Respeito a esse pão, primo! Isso é história de Chicago em São Paulo!",
+        "timeAgo": "Há 30 min"
+      },
+      {
+        "id": "comm-14",
+        "username": "@marcus_pastry",
+        "name": "Marcus Brooks",
+        "avatarUrl": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=400&q=80",
+        "text": "A cor dessa carne está surreal de uniforme.",
+        "timeAgo": "Há 15 min"
+      }
+    ]
+  },
+  {
+    "id": "meal-006",
+    "createdAt": "2026-10-24T18:40:00Z",
+    "timeAgo": "Ontem às 18:40",
+    "user": {
+      "id": "usr-06",
+      "name": "Chihiro Ogino",
+      "username": "@chihiro_spirited",
+      "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80",
+      "bio": "Apreciei a comida sem me transformar em porco. Amante de baos e chás."
+    },
+    "restaurant": {
+      "id": "rest-yubaba",
+      "name": "Banquete dos Espíritos",
+      "category": "Culinária Tradicional Asiática",
+      "location": "Liberdade, São Paulo - SP"
+    },
+    "dishes": [
+      {
+        "id": "dish-13",
+        "name": "Baozi Fumegante de Barriga de Porco e Gengibre",
+        "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80",
+        "price": 32.00,
+        "rating": 5.0,
+        "wouldEatAgain": true
+      },
+      {
+        "id": "dish-14",
+        "name": "Guioza Grelhado com Nirá e Porco",
+        "imageUrl": "https://images.unsplash.com/photo-1498654896293-37aacf113fd9?auto=format&fit=crop&w=800&q=80",
+        "price": 28.00,
+        "rating": 4.0,
+        "wouldEatAgain": true
+      },
+      {
+        "id": "dish-15",
+        "name": "Chá Verde Cerimonial Matcha Gelado",
+        "imageUrl": "https://images.unsplash.com/photo-1536256263959-770b48d82b0a?auto=format&fit=crop&w=800&q=80",
+        "price": 18.00,
+        "rating": 4.5,
+        "wouldEatAgain": true
+      }
+    ],
+    "review": "Um refúgio mágico no coração da Liberdade. O baozi veio em uma cesta de bambu fervilhando, a massa é fofa como nuvem e o recheio de porco estava super úmido e aromático pelo gengibre fresco. Os guiozas tinham aquela casquinha rendada embaixo extremamente crocante contrastando com o topo macio no vapor. Para encerrar, o matcha autêntico bem amargo limpou o paladar com frescor vegetal. Dá vontade de ficar aqui pra sempre!",
+    "stats": {
+      "likesCount": 428,
+      "commentsCount": 2,
+      "savesCount": 88,
+      "sharesCount": 31
+    },
+    "comments": [
+      {
+        "id": "comm-15",
+        "username": "@haku_river",
+        "name": "Haku",
+        "avatarUrl": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=400&q=80",
+        "text": "Lembre-se sempre de não comer rápido demais e manter os pés firmes no chão.",
+        "timeAgo": "Ontem às 19:20"
+      },
+      {
+        "id": "comm-16",
+        "username": "@kamaji_boiler",
+        "name": "Kamaji",
+        "avatarUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=400&q=80",
+        "text": "Bom trabalho. Nada como um bom bao depois de carregar carvão o dia inteiro.",
+        "timeAgo": "Ontem às 20:10"
+      }
+    ]
+  },
+  {
+    "id": "meal-007",
+    "createdAt": "2026-10-24T13:00:00Z",
+    "timeAgo": "Ontem às 13:00",
+    "user": {
+      "id": "usr-07",
+      "name": "Walter White",
+      "username": "@heisenberg_cook",
+      "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=400&q=80",
+      "bio": "Química é o estudo das mudanças. Padrão de pureza 99.1% em tudo que analiso."
+    },
+    "restaurant": {
+      "id": "rest-pollos",
+      "name": "Los Pollos Hermanos",
+      "category": "Frango Crocante & Tex-Mex",
+      "location": "Moema, São Paulo - SP"
+    },
+    "dishes": [
+      {
+        "id": "dish-16",
+        "name": "Balde de Frango Frito Especial Hermanos",
+        "imageUrl": "https://images.unsplash.com/photo-1626645738196-c2a7c87a8f58?auto=format&fit=crop&w=800&q=80",
+        "price": 64.00,
+        "rating": 5.0,
+        "wouldEatAgain": true
+      },
+      {
+        "id": "dish-17",
+        "name": "Purê de Batatas com Gravy Apimentado",
+        "imageUrl": "https://images.unsplash.com/photo-1514944298352-78d1a1b55909?auto=format&fit=crop&w=800&q=80",
+        "price": 19.00,
+        "rating": 4.0,
+        "wouldEatAgain": true
+      },
+      {
+        "id": "dish-18",
+        "name": "Slaw Tradicional de Repolho Roxo",
+        "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=800&q=80",
+        "price": null,
+        "rating": 2.0,
+        "wouldEatAgain": false
+      }
+    ],
+    "review": "Preciso admitir que a consistência deste estabelecimento beira a perfeição industrial. O empanamento do frango possui uma granulometria precisa: extremamente crocante, retenção total de umidade interna da carne (zero ressecamento) e temperos distribuídos em proporções estequiométricas exatas. O gravy é denso e aveludado. A salada coleslaw, no entanto, veio cortada grosseiramente e com excesso desmedido de maionese industrial doce, arruinando a acidez requerida. O proprietário claramente entende de logística e controle de processos.",
+    "stats": {
+      "likesCount": 890,
+      "commentsCount": 3,
+      "savesCount": 240,
+      "sharesCount": 92
+    },
+    "comments": [
+      {
+        "id": "comm-17",
+        "username": "@jesse_pinkman_yo",
+        "name": "Jesse Pinkman",
+        "avatarUrl": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=400&q=80",
+        "text": "Yo, Mr. White! Essa pele de frango é pura ciência, cara! Muito bom!",
+        "timeAgo": "Ontem às 14:10"
+      },
+      {
+        "id": "comm-18",
+        "username": "@gustavo_fring_official",
+        "name": "Gustavo Fring",
+        "avatarUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=400&q=80",
+        "text": "Fico satisfeito que o padrão de qualidade tenha atendido às suas expectativas, Sr. White. Volte sempre.",
+        "timeAgo": "Ontem às 15:00"
+      },
+      {
+        "id": "comm-19",
+        "username": "@hank_minerals",
+        "name": "Hank Schrader",
+        "avatarUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=400&q=80",
+        "text": "Frango frito de primeira. Combina perfeito com uma cerveja gelada.",
+        "timeAgo": "Ontem às 16:30"
+      }
+    ]
+  },
+  {
+    "id": "meal-008",
+    "createdAt": "2026-10-23T16:30:00Z",
+    "timeAgo": "Há 2 dias",
+    "user": {
+      "id": "usr-08",
+      "name": "Wednesday Addams",
+      "username": "@wednesday_dark",
+      "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80",
+      "bio": "Alérgica a cores primárias e sorrisos. Café preto como a noite e doces amargos."
+    },
+    "restaurant": {
+      "id": "rest-nevermore",
+      "name": "Café Raven & Dagger",
+      "category": "Cafeteria Especial & Confeitaria Dark",
+      "location": "Vila Madalena, São Paulo - SP"
+    },
+    "dishes": [
+      {
+        "id": "dish-19",
+        "name": "Quad Shot Espresso Vantablack",
+        "imageUrl": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=800&q=80",
+        "price": 16.00,
+        "rating": 5.0,
+        "wouldEatAgain": true
+      },
+      {
+        "id": "dish-20",
+        "name": "Torta Trigo Sarraceno com Cacau 85% e Sal Negro",
+        "imageUrl": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?auto=format&fit=crop&w=800&q=80",
+        "price": 32.00,
+        "rating": 4.5,
+        "wouldEatAgain": true
+      }
+    ],
+    "review": "A maioria das cafeterias é infestada de canela, açúcar e otimismo desagradável. Aqui, ao menos, o espresso foi extraído com rigor funeral: quatro doses de café etíope torra escura, sem uma gota de leite para corrompê-lo, amargo o bastante para acordar os mortos. A torta de chocolate 85% com sal negro de Chipre tem textura aveludada e recusa qualquer traço de doçura vulgar. Um refúgio adequadamente sombrio.",
+    "stats": {
+      "likesCount": 731,
+      "commentsCount": 2,
+      "savesCount": 198,
+      "sharesCount": 67
+    },
+    "comments": [
+      {
+        "id": "comm-20",
+        "username": "@enid_sinclair_color",
+        "name": "Enid Sinclair",
+        "avatarUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=400&q=80",
+        "text": "Wednesdaaaay! O lugar parece muito trevoso, mas aquela tortinha de chocolate tá muito aesthetic! Me leva!",
+        "timeAgo": "Há 2 dias"
+      },
+      {
+        "id": "comm-21",
+        "username": "@thing_official",
+        "name": "Thing",
+        "avatarUrl": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=400&q=80",
+        "text": "🖐️👌🖤",
+        "timeAgo": "Há 2 dias"
+      }
+    ]
+  },
+  {
+    "id": "meal-009",
+    "createdAt": "2026-10-22T20:00:00Z",
+    "timeAgo": "Há 3 dias",
+    "user": {
+      "id": "usr-01",
+      "name": "Spike Spiegel",
+      "username": "@spikespiegel",
+      "avatarUrl": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=400&q=80",
+      "bio": "Caçador de recompensas e entusiasta de um bom prato feito nas horas vagas."
+    },
+    "restaurant": {
+      "id": "rest-shin",
+      "name": "Shin Zushi Express",
+      "category": "Culinária Japonesa & Ramen",
+      "location": "Paraíso, São Paulo - SP"
+    },
+    "dishes": [
+      {
+        "id": "dish-21",
+        "name": "Combo Nigiri Especial do Chef (8 peças)",
+        "imageUrl": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?auto=format&fit=crop&w=800&q=80",
+        "price": 78.00,
+        "rating": 5.0,
+        "wouldEatAgain": true
+      },
+      {
+        "id": "dish-22",
+        "name": "Robata de Barriga de Salmão com Tare",
+        "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80",
+        "price": 24.00,
+        "rating": 4.0,
+        "wouldEatAgain": true
+      }
+    ],
+    "review": "Diferente da experiência que meu amigo Geralt teve com o ramen daqui, os sushis no balcão são outro patamar. O peixe branco e o atum gordo estavam em temperatura ambiente ideal, arroz morno e com tempero bem balanceado no vinagre de arroz vermelho. A robata veio com a gordura do salmão crocante e caramelizada no tare. Quando o assunto é nigiri tradicional, eles não erram.",
+    "stats": {
+      "likesCount": 267,
+      "commentsCount": 2,
+      "savesCount": 62,
+      "sharesCount": 15
+    },
+    "comments": [
+      {
+        "id": "comm-22",
+        "username": "@white_wolf_geralt",
+        "name": "Geralt de Rívia",
+        "avatarUrl": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=400&q=80",
+        "text": "Hm. Talvez eu devesse ter pedido os nigiris em vez daquela sopa morna...",
+        "timeAgo": "Há 3 dias"
+      },
+      {
+        "id": "comm-23",
+        "username": "@jet_black",
+        "name": "Jet Black",
+        "avatarUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=400&q=80",
+        "text": "Quem pagou essa conta, Spike? Não foi com o dinheiro do combustível da nave, né?",
+        "timeAgo": "Há 3 dias"
+      }
+    ]
+  },
+  {
+    "id": "meal-010",
+    "createdAt": "2026-10-20T15:20:00Z",
+    "timeAgo": "Há 5 dias",
+    "user": {
+      "id": "usr-01",
+      "name": "Spike Spiegel",
+      "username": "@spikespiegel",
+      "avatarUrl": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=400&q=80",
+      "bio": "Caçador de recompensas e entusiasta de um bom prato feito nas horas vagas."
+    },
+    "restaurant": {
+      "id": "rest-smash",
+      "name": "The Smashing Burger Co.",
+      "category": "Hamburgueria Artesanal",
+      "location": "Pinheiros, São Paulo - SP"
+    },
+    "dishes": [
+      {
+        "id": "dish-23",
+        "name": "Smash Bacon BBQ Crocante",
+        "imageUrl": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=800&q=80",
+        "price": 42.00,
+        "rating": 4.0,
+        "wouldEatAgain": true
+      }
+    ],
+    "review": "Passei correndo entre um compromisso e outro. O smash bacon é muito honesto: carne bem tostada nas bordas, queijo prato derretido e fatias generosas de bacon defumado crocante. Rápido, direto ao ponto e sem firula.",
+    "stats": {
+      "likesCount": 188,
+      "commentsCount": 1,
+      "savesCount": 41,
+      "sharesCount": 9
+    },
+    "comments": [
+      {
+        "id": "comm-24",
+        "username": "@mia_wallace",
+        "name": "Mia Wallace",
+        "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=400&q=80",
+        "text": "Eu avisei que o smash deles não falha!",
+        "timeAgo": "Há 5 dias"
+      }
+    ]
+  },
+  {
+    "id": "meal-011",
+    "createdAt": "2026-10-18T13:30:00Z",
+    "timeAgo": "Há 1 semana",
+    "user": {
+      "id": "usr-04",
+      "name": "Tony Soprano",
+      "username": "@tony_soprano_real",
+      "avatarUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=400&q=80",
+      "bio": "Consultor de gestão de resíduos. Valorizo lealdade, família e uma boa massa."
+    },
+    "restaurant": {
+      "id": "rest-original-beef",
+      "name": "The Original Beef of Chicagoland",
+      "category": "Sanduíches & Cozinha de Raiz",
+      "location": "Santa Cecília, São Paulo - SP"
+    },
+    "dishes": [
+      {
+        "id": "dish-24",
+        "name": "Sanduíche de Almôndegas da Nonna no Pão Italiano",
+        "imageUrl": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&w=800&q=80",
+        "price": 45.00,
+        "rating": 5.0,
+        "wouldEatAgain": true
+      }
+    ],
+    "review": "Fui com um pé atrás por ser um lugar moderno em Santa Cecília, mas as almôndegas me calaram a boca. Mistura clássica de vitela e carne bovina com raspas de limão e ervas, cozidas no molho pomodoro durante a manhã toda. Molho espesso, queijo provolone derretido e um pão rústico de respeito que sustenta a mordida. Lembra o sanduíche que o Satriale's fazia em New Jersey. Aprovado com louvor.",
+    "stats": {
+      "likesCount": 670,
+      "commentsCount": 3,
+      "savesCount": 155,
+      "sharesCount": 58
+    },
+    "comments": [
+      {
+        "id": "comm-25",
+        "username": "@carmy_thebear",
+        "name": "Carmy Berzatto",
+        "avatarUrl": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=400&q=80",
+        "text": "Obrigado pela visita, Tony. Essa receita de almôndega levou 6 meses para chegarmos no ponto exato.",
+        "timeAgo": "Há 1 semana"
+      },
+      {
+        "id": "comm-26",
+        "username": "@silvio_dante",
+        "name": "Silvio Dante",
+        "avatarUrl": "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=400&q=80",
+        "text": "Agora sim você tá falando a minha língua, chefe.",
+        "timeAgo": "Há 1 semana"
+      },
+      {
+        "id": "comm-27",
+        "username": "@paulie_gualtieri",
+        "name": "Paulie Walnuts",
+        "avatarUrl": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?auto=format&fit=crop&w=400&q=80",
+        "text": "Mamma mia, preciso passar aí amanhã mesmo!",
+        "timeAgo": "Há 1 semana"
+      }
+    ]
+  }
+]
+```

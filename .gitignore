@@ -1,0 +1,75 @@
+# Dependências e caches
+node_modules/
+.npm/
+.pnpm-store/
+.cache/
+.expo/
+.gradle/
+.kotlin/
+*.tsbuildinfo
+expo-env.d.ts
+.metro-health-check*
+
+# Builds e relatórios gerados
+dist/
+build/
+web-build/
+coverage/
+*.apk
+*.aab
+*.ipa
+*.log
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# Configurações privadas (exemplos podem ser versionados)
+.env
+.env.*
+!.env.example
+!.env.*.example
+.npmrc
+.netrc
+local.properties
+credentials.json
+service-account*.json
+google-services.json
+GoogleService-Info.plist
+
+# Chaves, certificados e assinatura de aplicativos
+*.pem
+*.key
+*.p8
+*.p12
+*.pfx
+*.jks
+*.keystore
+*.mobileprovision
+
+# Dados e exportações locais
+*.db
+*.sqlite
+*.sqlite3
+*.sql
+*.har
+*.hprof
+*.bak
+*.tmp
+*.orig
+
+# Ferramentas locais, capturas e histórico de revisão
+.idea/
+.vscode/
+.claude/
+.codex/
+.agents/
+.agent/
+.impeccable/
+.taste-skill/
+skills-lock.json
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+Desktop.ini
+*~

@@ -1,0 +1,25 @@
+import { pictures as existingPictures } from "@/data/pictures";
+import type { ImageSource } from "expo-image";
+export const pictures: Record<string, ImageSource> = {
+  ...existingPictures,
+  "assets/dishes/davizin-file-aligot.jpg": require("../../../assets/mobile-fixtures/110b60a59418.jpg"),
+  "assets/dishes/davizin-hot-roll-crocante.jpg": require("../../../assets/mobile-fixtures/7b77b065765b.jpg"),
+  "assets/dishes/lucas-croissant-cappuccino.jpg": require("../../../assets/mobile-fixtures/ba2b087cfb15.jpg"),
+  "assets/dishes/lucas-pizza-artesanal.jpg": require("../../../assets/mobile-fixtures/439e5a3fda83.jpg"),
+  "assets/dishes/pedro-smash-burger.jpg": require("../../../assets/mobile-fixtures/c620550e9a42.jpg"),
+  "https://images.unsplash.com/photo-1498654896293-37aacf113fd9?auto=format&fit=crop&w=800&q=80": require("../../../assets/mobile-fixtures/1967ec2736f1.jpg"),
+  "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=800&q=80": require("../../../assets/mobile-fixtures/44b7f7086707.jpg"),
+  "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&w=800&q=80": require("../../../assets/mobile-fixtures/2feb1a79456f.jpg"),
+  "https://images.unsplash.com/photo-1536256263959-770b48d82b0a?auto=format&fit=crop&w=800&q=80": require("../../../assets/mobile-fixtures/68abd8cc49c5.jpg"),
+  "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=400&q=80": require("../../../assets/mobile-fixtures/f217d44a09cf.jpg"),
+  "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=800&q=80": require("../../../assets/mobile-fixtures/68eaf839b55d.jpg"),
+  "https://images.unsplash.com/photo-1550547660-d9450f859349?auto=format&fit=crop&w=800&q=80": require("../../../assets/mobile-fixtures/932613d5a25a.jpg"),
+  "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80": require("../../../assets/mobile-fixtures/7f939fd1b0a4.jpg"),
+  "https://images.unsplash.com/photo-1563089145-599997674d42?auto=format&fit=crop&w=400&q=80": require("../../../assets/mobile-fixtures/81775c3b9a5a.jpg"),
+  "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80": require("../../../assets/mobile-fixtures/e88d7b692aac.jpg"),
+  "https://images.unsplash.com/photo-1578632767115-351597cf2477?auto=format&fit=crop&w=400&q=80": require("../../../assets/mobile-fixtures/c5bee8ca906d.jpg"),
+  "https://images.unsplash.com/photo-1585109649139-366815a0d713?auto=format&fit=crop&w=800&q=80": require("../../../assets/mobile-fixtures/bd812c3ff86c.jpg"),
+  "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?auto=format&fit=crop&w=800&q=80": require("../../../assets/mobile-fixtures/330fa94e8443.jpg"),
+  "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=400&q=80": require("../../../assets/mobile-fixtures/6925fa2e602d.jpg"),
+  "https://images.unsplash.com/photo-1626645738196-c2a7c87a8f58?auto=format&fit=crop&w=800&q=80": require("../../../assets/mobile-fixtures/9266f5134a11.jpg"),
+};

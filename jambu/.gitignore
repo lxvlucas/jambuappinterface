@@ -1,0 +1,8 @@
+# Regras compartilhadas de segurança e caches: ../.gitignore
+# Pastas nativas geradas pelo Expo; configure o aplicativo em app.json.
+/android/
+/ios/
+
+# Cópia criada pelo script de reset do template Expo.
+/app-example/
+/example/
